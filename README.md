@@ -12,3 +12,4 @@ Tweak margin and padding
 Update configuration
 Remove unused imports
 Add new utility script
+Optimize loop

@@ -6,3 +6,4 @@ Optimize loop
 Update configuration
 Remove unused imports
 Add documentation
+Refactor core logic
